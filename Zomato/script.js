@@ -26,6 +26,8 @@ btn3.addEventListener('click',()=>{
     img3.src = 'https://b.zmtcdn.com/data/o2_assets/855687dc64a5e06d737dae45b7f6a13b1616149818.png';
 }); 
 
+
+
 const divmain = document.getElementById('items');
 for(let i = 0; i < arr.length; i++){
     const div1 = document.createElement('div');

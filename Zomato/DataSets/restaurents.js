@@ -5245,7 +5245,4 @@ export const arr = [
                 "isDisabled": false,
                 "bottomContainers": []
             }
-        ];
-
-
-           
+        ];     

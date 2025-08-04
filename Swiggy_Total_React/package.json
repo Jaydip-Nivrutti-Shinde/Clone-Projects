@@ -1,0 +1,23 @@
+{
+  "name": "swiggy_total_react",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.11",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "tailwind-scrollbar-hide": "^4.0.0",
+    "tailwindcss": "^4.1.11"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
